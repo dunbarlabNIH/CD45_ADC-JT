@@ -1,0 +1,3 @@
+To analyze counts and metadata files for both animals the easiest way is the use BarcodetrackR Rstudio package. However, online application can also be used via web browser at following path: https://dunbarlabnih.shinyapps.io/barcode_app/ 
+
+For both animals, counts file need to be uploaded into "Tabular data with rows as observations, columns as sample" tab and metadata needs to be uploaded in "Tabular metadata with SAMPLENAME column matching of data" section. When loading completed all heat-maps, correlation graphs or diversity graphs can be plotted over sample name, date or cell type. 
